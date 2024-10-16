@@ -1,0 +1,1 @@
+-force-include-file "Proiect.c";"d:\Anul3\APD\Stefan_Fundueanu-Constantin_1310A_Etapa2\Proiect\Proiect\Proiect.c" 

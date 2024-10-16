@@ -1,0 +1,65 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Anul3\APD\Stefan_Fundueanu-Constantin_1310A_Etapa2\Proiect\Proiect\Proiect.c:35:5"
+
+[OnPanelExit]
+Class="Function"
+Prototype="int OnPanelExit(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Anul3\APD\Stefan_Fundueanu-Constantin_1310A_Etapa2\Proiect\Proiect\Proiect.c:50:17"
+
+[BTTLoad]
+Class="Function"
+Prototype="int BTTLoad(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Anul3\APD\Stefan_Fundueanu-Constantin_1310A_Etapa2\Proiect\Proiect\Proiect.c:68:17"
+
+[HistogramBTTCB]
+Class="Function"
+Prototype="int HistogramBTTCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Anul3\APD\Stefan_Fundueanu-Constantin_1310A_Etapa2\Proiect\Proiect\Proiect.c:126:17"
+
+[HistogramPanelCB]
+Class="Function"
+Prototype="int HistogramPanelCB(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Anul3\APD\Stefan_Fundueanu-Constantin_1310A_Etapa2\Proiect\Proiect\Proiect.c:140:17"
+
+[FiltruButtonCB]
+Class="Function"
+Prototype="int FiltruButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Anul3\APD\Stefan_Fundueanu-Constantin_1310A_Etapa2\Proiect\Proiect\Proiect.c:175:17"
+
+[AlphaCB]
+Class="Function"
+Prototype="int AlphaCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Anul3\APD\Stefan_Fundueanu-Constantin_1310A_Etapa2\Proiect\Proiect\Proiect.c:226:17"
+
+[EnvelopeCB]
+Class="Function"
+Prototype="int EnvelopeCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Anul3\APD\Stefan_Fundueanu-Constantin_1310A_Etapa2\Proiect\Proiect\Proiect.c:238:17"
+
+[Prev_NextBTT]
+Class="Function"
+Prototype="int Prev_NextBTT(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Anul3\APD\Stefan_Fundueanu-Constantin_1310A_Etapa2\Proiect\Proiect\Proiect.c:254:17"
+
+[OnSwitchpanelCB]
+Class="Function"
+Prototype="int OnSwitchpanelCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Anul3\APD\Stefan_Fundueanu-Constantin_1310A_Etapa2\Proiect\Proiect\Proiect.c:308:17"
+
+[OnSpectru]
+Class="Function"
+Prototype="int OnSpectru(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Anul3\APD\Stefan_Fundueanu-Constantin_1310A_Etapa2\Proiect\Proiect\Proiect.c:332:17"
+
+[OnAplicareFiltre]
+Class="Function"
+Prototype="int OnAplicareFiltre(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Anul3\APD\Stefan_Fundueanu-Constantin_1310A_Etapa2\Proiect\Proiect\Proiect.c:383:17"
+
+[ExitBTN]
+Class="Function"
+Prototype="int ExitBTN(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Anul3\APD\Stefan_Fundueanu-Constantin_1310A_Etapa2\Proiect\Proiect\Proiect.c:470:17"
+
